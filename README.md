@@ -1,1 +1,1 @@
-# Buyer-Intent-Amazon-Buyer-Intent-Revenue-Intelligence-Engine
+# Buyer-Intent-Revenue-Intelligence-Engine
